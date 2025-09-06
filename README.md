@@ -21,7 +21,7 @@ The project was created for **learning and educational purposes only** to practi
 
 ## 🌐 Live Demo
 Check out the project here:  
-👉 [Amazon Clone Live](https://your-username.github.io/Amazon-Clone-Project/)  
+👉 https://github.com/rohitrathod1727/Amazon-Clone-Project.git
 
 ---
 
